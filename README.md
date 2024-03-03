@@ -1,4 +1,4 @@
-## Hello, I´m Samuel Santos and i´m software develop
+## Hello, I´m Samuel Santos and I´m software develop
 ### Welcome
 🖥️ 
 
