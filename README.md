@@ -7,7 +7,6 @@
 ## 🇧🇷 Sobre Mim
 Profissional com experiência em desenvolvimento full-stack, com conhecimento em arquiteturas de microsserviços e monólito, e padrões como RESTful APIs. Minha prioridade é resolver problemas e entregar resultados, independentemente da ferramenta. Construo soluções que são não apenas funcionais, mas também escaláveis e sustentáveis a longo prazo.
 
-*   **Atualmente:** Desenvolvedor Full-Stack na **Salcomp Plc** e no **GRAEST UEA**.
 *   **Foco:** Java (Spring Boot), NestJS e React.
 *   **Educação:** Bacharel em Engenharia de Software - FUCAPI (Em andamento).
 
@@ -16,7 +15,6 @@ Profissional com experiência em desenvolvimento full-stack, com conhecimento em
 ## 🇺🇸 About Me
 A professional with experience in full-stack development, featuring knowledge of microservices and monolith architectures and patterns like RESTful APIs. My priority is solving problems and delivering results, regardless of the tool. I build solutions that are not only functional but also scalable and sustainable in the long term.
 
-*   **Currently:** Full-Stack Developer at **Salcomp Plc** and **GRAEST UEA**.
 *   **Focus:** Java (Spring Boot), NestJS and React.
 *   **Education:** B.S. in Software Engineering - FUCAPI (In progress).
 
